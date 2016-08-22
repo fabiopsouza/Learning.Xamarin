@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Navigations.ContentPages.UIContentPage">
+
+  <ContentPage.Content>
+    <StackLayout Padding="20" Spacing="20" BackgroundColor="#ecf0f1">
+      <Button Text="Push Async" Clicked="DoPushAsync"></Button>
+      <Button Text="Push Modal Async" Clicked="DoPushModalAsync"></Button>
+      <Button Text="Go to TabbedPage" Clicked="GoToTabbedPage"></Button>
+      <Button Text="Go to CarouselPage" Clicked="GoToCarouselPage"></Button>
+    </StackLayout>
+  </ContentPage.Content>
+  
+</ContentPage>
