@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Navigations;assembly=Navigations"
+             x:Class="Navigations.MasterDetailPages.UIMasterDetailPage">
+  <MasterDetailPage.Master>
+    <ContentPage Title="Menu">
+      <StackLayout BackgroundColor="White">
+        <Button Text="Página 1" Clicked="GoToPagina1" />
+        <Button Text="Página 2" Clicked="GoToPagina2" />
+        <Button Text="Página 3" Clicked="GoToPagina3" />
+      </StackLayout>
+    </ContentPage>
+  </MasterDetailPage.Master>
+
+  <MasterDetailPage.Detail>
+    <local:MasterDetailPages.Pagina1/>
+  </MasterDetailPage.Detail>
+  
+</MasterDetailPage>

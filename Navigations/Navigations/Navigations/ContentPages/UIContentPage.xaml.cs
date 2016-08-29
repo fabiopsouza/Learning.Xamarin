@@ -1,4 +1,5 @@
 ﻿using Navigations.CarouselPages;
+using Navigations.MasterDetailPages;
 using Navigations.TappedPages;
 using System;
 using Xamarin.Forms;
@@ -30,6 +31,11 @@ namespace Navigations.ContentPages
         public async void GoToCarouselPage(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new UICarouselPage());
+        }
+
+        public async void GoToMasterDetailPage(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new UIMasterDetailPage());
         }
     }
 }

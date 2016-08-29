@@ -9,6 +9,7 @@
       <Button Text="Push Modal Async" Clicked="DoPushModalAsync"></Button>
       <Button Text="Go to TabbedPage" Clicked="GoToTabbedPage"></Button>
       <Button Text="Go to CarouselPage" Clicked="GoToCarouselPage"></Button>
+      <Button Text="Go to MasterDetailPage" Clicked="GoToMasterDetailPage"></Button>
     </StackLayout>
   </ContentPage.Content>
   

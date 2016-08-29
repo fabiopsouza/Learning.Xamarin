@@ -13,7 +13,11 @@ C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\bin\Debu
 C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\bin\Debug\Mono.Android.xml
 C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.ContentPages.UIContentPage2.xaml.g.cs
 C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.TappedPages.UITappedPage.xaml.g.cs
-C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.TappedPages.ExternalContentPage.xaml.g.cs
 C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.CarouselPages.UICarouselPage.xaml.g.cs
+C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.MasterDetailPages.Pagina1.xaml.g.cs
+C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.MasterDetailPages.Pagina2.xaml.g.cs
+C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.MasterDetailPages.UIMasterDetailPage.xaml.g.cs
+C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.TappedPages.ExternalContentPage.xaml.g.cs
+C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.MasterDetailPages.Pagina3.xaml.g.cs
 C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\obj\Debug\Navigations.dll.mdb
 C:\workroot\github\Learning.Xamarin\Navigations\Navigations\Navigations\bin\Debug\Navigations.dll.mdb
